@@ -1,0 +1,6 @@
+{
+  "name": "Tobacco Mandi",
+  "description": "Digital Mandi and social trading platform for tobacco farmers (zamindars) and buyers to trade crops, check daily mandi rates, and connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

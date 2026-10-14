@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tobacco Mandi</string>
+    <string name="tagline_urdu">تمباکو منڈی - زمیندار اور بیوپاری کا بھروسہ</string>
+    <string name="feed_tab">منڈی فیڈ (Feed)</string>
+    <string name="market_tab">خرید و فروخت (Market)</string>
+    <string name="rates_tab">منڈی ریٹس (Rates)</string>
+    <string name="calculator_tab">حساب کتاب (Calculator)</string>
+    <string name="post_crop">فصل کی پوسٹ لگائیں</string>
+</resources>
